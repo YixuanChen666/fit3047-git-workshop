@@ -1,1 +1,1 @@
-# Group Git Practice
+# fit3047-git-workshop
